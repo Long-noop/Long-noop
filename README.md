@@ -31,16 +31,6 @@
 
 ## 🏆 Projects Portfolio
 
-### 1. [Project Name](https://github.com/Long-noop/repo)
-- **Tech**: FastAPI + AWS + Swagger
-- REST API for [brief description]
-- ![Stars](https://img.shields.io/github/stars/Long-noop/repo?style=flat)
-
-### 2. [Project Name](https://github.com/Long-noop/repo)
-- **Tech**: Spring Boot + Java
-- [Brief description]
-- ![Last Commit](https://img.shields.io/github/last-commit/Long-noop/repo?color=blue)
-
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C6%B0%C6%A1ng-ho%C3%A0ng-long-d%C6%B0%C6%A1ng-74484333b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoanglong434gl@gmail.com)
